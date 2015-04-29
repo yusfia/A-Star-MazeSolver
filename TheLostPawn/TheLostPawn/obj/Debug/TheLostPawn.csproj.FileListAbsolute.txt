@@ -1,0 +1,9 @@
+C:\Users\Yusfia Hafid A\documents\visual studio 2013\Projects\TheLostPawn\TheLostPawn\bin\Debug\TheLostPawn.exe.config
+C:\Users\Yusfia Hafid A\documents\visual studio 2013\Projects\TheLostPawn\TheLostPawn\bin\Debug\TheLostPawn.exe
+C:\Users\Yusfia Hafid A\documents\visual studio 2013\Projects\TheLostPawn\TheLostPawn\bin\Debug\TheLostPawn.pdb
+C:\Users\Yusfia Hafid A\documents\visual studio 2013\Projects\TheLostPawn\TheLostPawn\obj\Debug\TheLostPawn.Form1.resources
+C:\Users\Yusfia Hafid A\documents\visual studio 2013\Projects\TheLostPawn\TheLostPawn\obj\Debug\TheLostPawn.Properties.Resources.resources
+C:\Users\Yusfia Hafid A\documents\visual studio 2013\Projects\TheLostPawn\TheLostPawn\obj\Debug\TheLostPawn.csproj.GenerateResource.Cache
+C:\Users\Yusfia Hafid A\documents\visual studio 2013\Projects\TheLostPawn\TheLostPawn\obj\Debug\TheLostPawn.exe
+C:\Users\Yusfia Hafid A\documents\visual studio 2013\Projects\TheLostPawn\TheLostPawn\obj\Debug\TheLostPawn.pdb
+C:\Users\Yusfia Hafid A\documents\visual studio 2013\Projects\TheLostPawn\TheLostPawn\obj\Debug\TheLostPawn.csprojResolveAssemblyReference.cache
